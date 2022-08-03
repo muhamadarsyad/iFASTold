@@ -1,2 +1,2 @@
-# IFast
+# iFAST
 ERP Plantation System
